@@ -3,7 +3,7 @@
     modelDirectory="xcore-gradle-example/src/main/java-gen",
     complianceLevel="7.0"
 )
-package sample
+package sample.model
 
 class User {
     String name
