@@ -1,5 +1,10 @@
+@GenModel(
+    bundleManifest="false",
+    modelDirectory="xcore-gradle-example/src/main/java-gen",
+    complianceLevel="7.0"
+)
 package sample
 
 class User {
-    // String name
+    String name
 }
